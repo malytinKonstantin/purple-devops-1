@@ -7,4 +7,6 @@ docker exec -it nginx-test bash
 curl GET localhost:80
 ```
 
+### Результат выполнения команд
+
 ![result](image.png)
